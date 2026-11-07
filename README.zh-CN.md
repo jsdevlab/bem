@@ -285,7 +285,7 @@ const className = bem('hl-hue-slider', { vertical, disabled });
 
 ## 开发
 
-环境要求：Node.js 24+（在 `devEngines.runtime` 中声明）和 pnpm 12+。
+环境要求：Node.js 24.19+ 且低于 27（在 `devEngines.runtime` 中声明）和 pnpm 12+。
 
 ```bash
 pnpm install       # 安装依赖

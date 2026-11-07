@@ -191,7 +191,7 @@ importers:
         specifier: ^24.13.3
         version: 24.13.3
       node:
-        specifier: runtime:24.19.0
+        specifier: runtime:>=24.19.0 <27.0.0
         version: runtime:24.19.0
       simple-git-hooks:
         specifier: ^2.14.0

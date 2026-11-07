@@ -291,7 +291,8 @@ const className = bem('hl-hue-slider', { vertical, disabled });
 
 ## Development
 
-Requirements: Node.js 24+ (declared in `devEngines.runtime`) and pnpm 12+.
+Requirements: Node.js 24.19+ and < 27 (declared in `devEngines.runtime`) and
+pnpm 12+.
 
 ```bash
 pnpm install       # install dependencies
