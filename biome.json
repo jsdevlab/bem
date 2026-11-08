@@ -23,6 +23,7 @@
     "formatWithErrors": false,
     "includes": [
       "**",
+      "!.changeset/**",
       "!dist/**",
       "!coverage/**",
       "!node_modules/**",
