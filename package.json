@@ -1,6 +1,6 @@
 {
   "name": "@jsdevlab/bem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Framework-agnostic BEM (Block, Element, Modifier) class name builder",
   "keywords": ["bem", "class", "block", "element"],
